@@ -6,5 +6,6 @@ Ce dossier contient mes travaux pratques réalisés en cours (GLAR).
 - SQL
 - Python
 - Java
+- Programmation Événementielle
 ## Objectif
 Améliorer mes compétences en programmation et algorithmique.
