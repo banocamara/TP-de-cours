@@ -1,0 +1,12 @@
+# TP-de-cours
+Ce dossier contient mes travaux pratques réalisés en cours (GLAR).
+## Contenu
+- Langage C
+- PHP
+- POO
+- SQL
+- Python
+- Java
+- Programmation Événementielle
+## Objectif
+Améliorer mes compétences en programmation et algorithmique.
